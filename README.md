@@ -30,6 +30,3 @@ This repository contains a comprehensive sales analysis of a bike store using Po
   - Use of historical data to forecast future sales.
   - Showcase the accuracy of time series models.
   - Provide actionable insights for decision-making.
-
-
-[Detailed Project Report](https://app.powerbi.com/view?r=eyJrIjoiZDZkMTVlZTgtMzUyNC00YzE1LWJhOGItZTYzOTU5NGQzZWI0IiwidCI6ImNjNzMwNWZmLTg5ZjMtNGJhYS05M2UxLTUwYTNhNDQ1MDQ3MSJ9)
